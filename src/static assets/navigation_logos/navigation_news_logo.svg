@@ -1,0 +1,11 @@
+<svg width="21" height="14" viewBox="0 0 21 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10.4463 12.5436C15.8295 12.5436 20.1935 10.0658 20.1935 7.00923C20.1935 3.95268 15.8295 1.47485 10.4463 1.47485C5.06298 1.47485 0.698975 3.95268 0.698975 7.00923C0.698975 10.0658 5.06298 12.5436 10.4463 12.5436Z" class="navigation_path_fill" fill-opacity="0.9"  stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6.54725 2.02832H7.52198C5.62126 5.2604 5.62126 8.75813 7.52198 11.9902H6.54725" class="navigation_path_fill" fill-opacity="0.9" stroke="#2f3d53"/>
+<path d="M6.54725 2.02832H7.52198C5.62126 5.2604 5.62126 8.75813 7.52198 11.9902H6.54725"  class="navigation_path_stroke" stroke-opacity="0.9" stroke-linecap="round" stroke="#2f3d53" stroke-linejoin="round"/>
+<path d="M13.3704 2.02832C15.2711 5.2604 15.2711 8.75813 13.3704 11.9902Z" class="navigation_path_fill" fill-opacity="0.9"/>
+<path d="M13.3704 2.02832C15.2711 5.2604 15.2711 8.75813 13.3704 11.9902"  class="navigation_path_stroke" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round" stroke="#2f3d53"/>
+<path d="M1.67358 9.22312V8.66968C7.366 9.74888 13.5263 9.74888 19.2187 8.66968V9.22312" class="navigation_path_fill" fill-opacity="0.9"/>
+<path d="M1.67358 9.22312V8.66968C7.366 9.74888 13.5263 9.74888 19.2187 8.66968V9.22312"  class="navigation_path_stroke" stroke-opacity="0.9" stroke-linecap="round" stroke-linejoin="round" stroke="#2f3d53"/>
+<path d="M1.67358 5.3492C7.366 4.26999 13.5263 4.26999 19.2187 5.3492Z" class="navigation_path_fill" fill-opacity="0.9" stroke="#2f3d53"/>
+<path d="M1.67358 5.3492C7.366 4.26999 13.5263 4.26999 19.2187 5.3492"  class="navigation_path_stroke" stroke-opacity="0.9" stroke-linecap="round" stroke="#2f3d53" stroke-linejoin="round"/>
+</svg>
